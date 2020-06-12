@@ -1,0 +1,54 @@
+.bio {
+    color: rgb(21, 40, 102);
+    text-align: justify;
+    font-family: 'Lexend Tera', sans-serif;
+    border: 0.25em dashed;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: 'monospace';
+    font-weight: 200;
+    background: rgb(34,193,195);
+    background: linear-gradient(24deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    padding: 1em 2em 1em 2em;
+}
+
+.edu {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.facts {
+    background-color: wheat;
+    text-align: center;
+    color: tomato;
+}
+
+.highlight {
+    background-color: rgb(139, 119, 185);
+    color: rgb(214, 214, 214);
+}
+
+img {
+    width: 50%;
+}
+
+.primary-heading {
+    color: cornflowerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3em;
+    text-align: center, justify;
+    background: orange;
+    border-radius: 1em;
+}
+
